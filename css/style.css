@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,500&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 3px;
+}
+
+
+
+body {
+    font-family: "Zilla Slab", serif;
+    background-color: rgba(239, 239, 239, 0.902);
+}
+
+
+header {
+    background-color: rgba(239, 239, 239, 0.902);
+    padding: 20px;
+
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 200;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: underline;
+    margin-bottom: 20px;
+
+}
+
+a {
+    color: #53524d;
+    text-decoration: overline;
+    font-weight: bold;
+    font-family: "Mulish", sans-serif;
+    text-decoration: none;
+    border:3px solid;
+    padding: 0.5em 1em;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+
+a:hover {
+    color: #53524d; 
+    border-color: #414239; 
+    background-color: #a6a69b; 
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+
+img {
+    margin-left: 0%;
+    width: 200px;
+    height: 300px;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: rgba(146, 146, 146, 0.902);
+    padding: 30px;
+    margin-top: 30px;
+}
